@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Humera  
 
-<div style="background-color:#001F54; padding:15px; border-radius:10px; color:white; font-size:16px;">
+<div style="background: linear-gradient(135deg, #001F54, #4B0082); padding:15px; border-radius:10px; color:white; font-size:16px;">
   📊 <b>Student | Exploring Analytics & Coding | One project at a time</b>  
 </div>  
 
 ---
 
 ## 💡 About Me  
-- 🎓 BBA Student with an interest in **Data Analytics**  
-- 📊 Learning **R, SQL, Excel, and Python**  
+<div style="background: linear-gradient(135deg, #4B0082, #001F54); padding:15px; border-radius:10px; color:white; font-size:15px;">
+- 🎓 BBA Student with an interest in <b>Data Analytics</b>  
+- 📊 Learning <b>R, SQL, Excel, and Python</b>  
 - 💻 Passionate about turning data into insights  
+</div>  
 
 ---
 
@@ -21,13 +23,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-![Humera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humera-shxx&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humera-shxx&layout=compact&theme=tokyonight)  
-
----
-
-
 
